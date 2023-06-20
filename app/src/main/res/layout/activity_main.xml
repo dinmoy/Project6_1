@@ -18,7 +18,7 @@
         android:textStyle="bold"
         android:gravity="center_horizontal"/>
    <Button
-       android:id="@+id/start"
+       android:id="@+id/btnStart"
        android:layout_width="match_parent"
        android:layout_height="wrap_content"
        android:text="@string/btn_start"
@@ -65,7 +65,7 @@
     android:gravity="bottom"
     android:orientation="horizontal">
     <Button
-        android:id="@+id/buttonDone"
+        android:id="@+id/btnDone"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/btn_done"
